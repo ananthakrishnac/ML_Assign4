@@ -1,0 +1,38 @@
+(env1) C:\Anantha_Data\Anantha-Docs-Backup\Personal\Learning\MS-GaTech\Machine Learning\Assignments\Assignment 4\code_v2.0>python ForestMgmt.py
+Exploration In Discount
+Exploration In Discount
+Exploration with Epsilon
+Exploration with Epsilon
+Value Iterations:
+Iterations to Converge: 4
+Time: 0.02393627166748047
+Policy Iterations:
+Iterations to Converge: 4
+Time: 0.21243810653686523
+Value and Policy are Equal!
+Done!
+[0.3051884174346924, 0.6861767768859863, 0.9714193344116211, 0.9684245586395264]
+Value Iterations - Forest
+0 3672.4335882441455 50
+1 3695.145944189782 100
+2 3700.074881260885 133
+3 3700.074881260885 133
+[4.718461990356445, 20.021792888641357, 50.93863320350647, 60.60293412208557]
+Policy Iterations - Forest
+0 3712.519952066524 5
+1 3712.519952066524 20
+2 3712.519952066524 50
+3 3712.519952066524 58
+[1.9278748035430908, 8.225132942199707, 16.307646989822388, 77.17283964157104]
+Q learning Iterations - Forest
+0 42.71767441230846 10000
+1 42.71767441230846 50000
+2 42.71767441230846 100000
+3 42.71767441230846 500000
+
+(env1) C:\Anantha_Data\Anantha-Docs-Backup\Personal\Learning\MS-GaTech\Machine Learning\Assignments\Assignment 4\code_v2.0>
+
+
+
+
+
