@@ -8,7 +8,7 @@ seaborn == 0.10.0
 scikit-optimize == 0.5.2
 gym == 0.15.4
 scikit-plot == 0.3.7
-joblib == 0.14.1
+joblib == 1.2.0
 mlrose
 mdptoolbox-hiive
 spyder
