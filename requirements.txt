@@ -1,5 +1,5 @@
 numpy == 1.18.1
-scipy == 1.4.1
+scipy == 1.10.0
 scikit-learn[alldeps] == 0.22.1
 pandas == 0.25.3
 xlrd == 1.2.0
